@@ -13,6 +13,6 @@ I am  an Automation expert and data extraction freak who loves to play with data
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlizaibHassan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AlizaibHassan&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
