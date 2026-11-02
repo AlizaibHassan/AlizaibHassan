@@ -1,65 +1,124 @@
-# Hey, I am Alizaib Hassan:
+<h1 align="center">Hi, I'm Alizaib Hassan 👋</h1>
+<h3 align="center">Multi-Stack AI Engineer · SEO · Programming · Cyber Security</h3>
 
-I am an Automation expert and SEO data analyst who loves to play with data.<br><br>
-I have worked on a lot of projects including tracking data and automating<br><br>
-✔️ SEO Automation Tools<br>
-✔️ AI Agents & AI Bots<br>
-✔️ Bulk Video Generator<br>
-✔️ Data Scraping and Cleaning<br>
-✔️ Bulk Image Editing <br>
-✔️ Auto Website Audits <br>
-✔️ Data Analysis Tools<br>
-✔️ Google Sheets Automation<br>
-✔️ n8n Workflows & Make.com Automations<br><br>
-and many more projects which you can see on my profile.<br><br>
+<p align="center">
+  <a href="https://alizaibhassan.com"><img src="https://img.shields.io/badge/Website-alizaibhassan.com-0c0e10?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://alizaibhassan.com/#azh-book"><img src="https://img.shields.io/badge/Book_a_free_30--min_call-2ea44f?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Book a call"></a></p>
 
-I use the following tools and techniques daily for my projects<br><br>
-🟢 Data Scraping (Python/Requests/BeautifulSoup/LXML)<br>
-🟢 Web Automation (Python/C#/Selenium)<br>
-🟢 API Development (FastAPI/Flask)<br>
-🟢 AI Workflows (ChatGPT / Langchain / OpenAI API)<br>
-🟢 No-Code Tools (n8n / Make.com / Zapier)<br>
-🟢 Windows Desktop Apps (WPF/C#/XAML)<br>
-🟢 Web Apps (Django/Laravel)<br>
-🟢 Android Automation (Python/C#/Appium)<br><br>
-
-You can get results and code in the following formats<br><br>
-✔️ Output in JSON/CSV/Excel/Database<br>
-✔️ Multithreaded code<br>
-✔️ Commented and prettified to help you understand<br>
-✔️ Clean and efficient<br><br>
-
-You can connect with me on alizaibhassan@gmail.com for any project 
-
-## 🌐 Socials:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alizaibhassan.azh) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alizaibhassan) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alizaibhassan) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alizaib_hassan) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@syedalizaibhassan) 
-
-# 💻 Tech Stack:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=AlizaibHassan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AlizaibHassan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlizaibHassan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <b>I make sure websites rank on Google and AI, are built right, and stay secure.</b><br>
+  15 years on the web: <b>security research since 2011</b>, <b>programming since 2016</b>, <b>SEO since 2020</b>.<br>
+  📍 Lahore, Pakistan · Head of Automation at a US marketing agency · 🏆 Connected Pakistan 30 Under 30 (2025)
+</p>
 
 ---
+
+## 🧭 What I do
+
+Most websites have an SEO person, a developer and (if they're lucky) someone checking security. They rarely talk to each other. I do all three, so I can see when a ranking problem, a code problem and a security problem are actually the same problem.
+
+| 🔎 SEO & AI Search | 💻 Programming & Automation | 🛡️ Cyber Security |
+|---|---|---|
+| Grew one site to **200,000 Google visitors/day** | **10+ years** of production code, **200+ public projects** | Acknowledged by **Google, BlackBerry, TeamViewer** |
+| Ranked **#2 on Google** for a **5M/month** search | AI agents, n8n workflows, Python automation | Certificates from **ESET** and **MediaFire** |
+| Getting brands named in **ChatGPT, Gemini & Perplexity** (AEO) | Scrapers, APIs, Google Sheets automation, bulk media tools | **48 security reports** filed in 2026 |
+| Ranked multiple sites in the **addiction treatment** industry | Next.js, Laravel, WordPress and custom web apps | Security check-ups, malware cleanup, server hardening |
+
+## 🛠️ Things I build
+
+- 🤖 **AI agents & bots** — LLM workflows with OpenAI / Claude APIs and LangChain
+- 🔁 **n8n, Make.com & Zapier automations** — end-to-end business workflows
+- 📈 **SEO automation tools** — auto site audits, programmatic SEO, reporting pipelines
+- 📊 **Automated client reporting** — Google Sheets that write their own takeaways
+- 🕸️ **Data scraping & cleaning** — multithreaded, delivered as JSON / CSV / Excel / DB
+- 🎬 **Bulk video & image generation/editing**
+- 🖥️ **Desktop & Android automation** — C# / WPF, Selenium, Appium
+
+## 💻 Tech Stack
+
+**Languages**<br>
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Web & APIs**<br>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+**AI & Automation**<br>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white)
+
+**Data**<br>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+
+**SEO & Analytics**<br>
+![Ahrefs](https://img.shields.io/badge/Ahrefs-054ADA?style=flat-square&logoColor=white)
+![Search Console](https://img.shields.io/badge/Search_Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white)
+![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Tag Manager](https://img.shields.io/badge/Tag_Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)
+![Screaming Frog](https://img.shields.io/badge/Screaming_Frog-6CBE45?style=flat-square&logoColor=white)
+
+**Servers**<br>
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## 🏆 Recognition you can verify
+
+- 🛡️ [Google Bug Hunters profile](https://bughunters.google.com/profile/07961944-b194-4733-92ed-c76def409c9d)
+- 🛡️ [BlackBerry PSIRT Hall of Fame](https://alizaibhassan.com/media/proof/blackberry-psirt-hall-of-fame.webp)
+- 🛡️ [TeamViewer via YesWeHack](https://yeswehack.com/hunters/alizaibhassan#latest-hacktivity)
+- 🛡️ [ESET acknowledgement](https://alizaibhassan.com/media/proof/eset-security-acknowledgement.webp) · [MediaFire certificate](https://alizaibhassan.com/media/proof/mediafire-security-certificate.webp) · SCC – Atrium
+- 🏅 [Connected Pakistan 30 Under 30 (2025): *From Cybersecurity Researcher to Founder of Caprahem*](https://blog.connectedpakistan.pk/alizaib-hassan-from-cybersecurity-researcher-to-founder-of-caprahem)
+- 🎓 BS Computer Science, University of Central Punjab
+
+## 📝 Latest guides from my blog
+
+- [Why is my website not showing up on Google?](https://alizaibhassan.com/blog/website-not-showing-on-google)
+- [Website traffic dropped suddenly? How to find the cause](https://alizaibhassan.com/blog/website-traffic-dropped)
+- [Website hacked? What to do in the first 24 hours](https://alizaibhassan.com/blog/website-hacked-what-to-do)
+- [How to get your business mentioned in ChatGPT, Gemini and Perplexity](https://alizaibhassan.com/blog/get-mentioned-in-chatgpt)
+- [Website audit checklist: 40 checks for SEO, speed and security](https://alizaibhassan.com/blog/website-audit-checklist)
+
+➡️ [All guides on ranking, AI search and website security](https://alizaibhassan.com/blog)
+
+## 🤝 Let's work together
+
+I only take on projects where I can make a measurable difference. Book a free 30-minute call and you'll leave with a clear next step, whether we work together or not:
+
+- Why you're not ranking on Google or in AI answers
+- What's slowing your site down or breaking it
+- Where it's exposed to attacks
+
+<p align="center">
+  <a href="https://alizaibhassan.com/#azh-book"><img src="https://img.shields.io/badge/Book_a_call-alizaibhassan.com-2ea44f?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Book a call"></a>
+  <a href="mailto:az@brandnorth.com"><img src="https://img.shields.io/badge/Email-az@brandnorth.com-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/alizaibhassan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/Alizaib_Hassan"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://youtube.com/@syedalizaibhassan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://instagram.com/alizaibhassan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://facebook.com/alizaibhassan.azh"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+</p>
